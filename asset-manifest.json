@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pallavid08.github.io/csb-bnlfc/static/css/main.8f2679d5.chunk.css",
+    "main.js": "https://pallavid08.github.io/csb-bnlfc/static/js/main.407f337e.chunk.js",
+    "main.js.map": "https://pallavid08.github.io/csb-bnlfc/static/js/main.407f337e.chunk.js.map",
+    "runtime-main.js": "https://pallavid08.github.io/csb-bnlfc/static/js/runtime-main.a7b3c1fd.js",
+    "runtime-main.js.map": "https://pallavid08.github.io/csb-bnlfc/static/js/runtime-main.a7b3c1fd.js.map",
+    "static/js/2.a2888cb1.chunk.js": "https://pallavid08.github.io/csb-bnlfc/static/js/2.a2888cb1.chunk.js",
+    "static/js/2.a2888cb1.chunk.js.map": "https://pallavid08.github.io/csb-bnlfc/static/js/2.a2888cb1.chunk.js.map",
+    "index.html": "https://pallavid08.github.io/csb-bnlfc/index.html",
+    "static/css/main.8f2679d5.chunk.css.map": "https://pallavid08.github.io/csb-bnlfc/static/css/main.8f2679d5.chunk.css.map",
+    "static/js/2.a2888cb1.chunk.js.LICENSE.txt": "https://pallavid08.github.io/csb-bnlfc/static/js/2.a2888cb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7b3c1fd.js",
+    "static/js/2.a2888cb1.chunk.js",
+    "static/css/main.8f2679d5.chunk.css",
+    "static/js/main.407f337e.chunk.js"
+  ]
+}
